@@ -1,0 +1,1 @@
+# magento-product-page-error
